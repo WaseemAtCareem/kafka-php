@@ -6,7 +6,6 @@
 .*.sw*
 .*.un~
 build/
-composer.lock
 composer.phar
 nbproject
 tmp/
