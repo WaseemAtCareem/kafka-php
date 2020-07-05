@@ -10,7 +10,7 @@
     "license": "BSD-3-Clause",
     "config": {
         "platform": {
-            "php": "7.1.12"
+            "php": "7.2"
         },
         "preferred-install": "dist",
         "sort-packages": true
@@ -19,7 +19,7 @@
         "php": "^7.1",
         "amphp/amp": "^2.0.3",
         "lcobucci/clock": "^1.0",
-        "psr/log": "^1.0"
+        "psr/log": "^1.1"
     },
     "autoload": {
         "psr-4": {
@@ -38,9 +38,9 @@
     "require-dev": {
         "doctrine/coding-standard": "^2.1",
         "infection/infection": "^0.7",
-        "kmelia/monolog-stdout-handler": "^1.2",
-        "mikey179/vfsStream": "^1.6.5",
-        "monolog/monolog": "^1.23",
+        "maxime-pasquier/monolog-stdout-handler": "^1.2",
+        "mikey179/vfsstream": "^1.6.5",
+        "monolog/monolog": "^1.25",
         "phpstan/phpstan": "^0.9",
         "phpstan/phpstan-phpunit": "^0.9",
         "phpstan/phpstan-strict-rules": "^0.9",
