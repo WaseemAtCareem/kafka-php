@@ -1,5 +1,5 @@
 {
-    "name": "nmred/kafka-php",
+    "name": "waseematcareem/kafka-php",
     "description": "Kafka client for php",
     "type": "library",
     "keywords": [
@@ -7,7 +7,7 @@
         "Kafka"
     ],
     "homepage": "http://www.swanlinux.net",
-    "license": "BSD-3-Clause",
+    "license": "Apache-2.0",
     "config": {
         "platform": {
             "php": "7.2"
